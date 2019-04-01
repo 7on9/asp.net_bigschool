@@ -214,6 +214,10 @@
     <Compile Include="Migrations\201903250247169_PopulateCategoryTable.Designer.cs">
       <DependentUpon>201903250247169_PopulateCategoryTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904010247452_Courseto.cs" />
+    <Compile Include="Migrations\201904010247452_Courseto.Designer.cs">
+      <DependentUpon>201904010247452_Courseto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -224,6 +228,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\CourseViewModel.cs" />
+    <Compile Include="ViewModels\FutureDateAttribute.cs" />
+    <Compile Include="ViewModels\ValidTimeAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
@@ -307,6 +313,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201903250247169_PopulateCategoryTable.resx">
       <DependentUpon>201903250247169_PopulateCategoryTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904010247452_Courseto.resx">
+      <DependentUpon>201904010247452_Courseto.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
