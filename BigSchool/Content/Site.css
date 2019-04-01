@@ -22,3 +22,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.color-green{
+    background-color: #0dfcc0;
+    border-color:   #0dfcc0;
+}

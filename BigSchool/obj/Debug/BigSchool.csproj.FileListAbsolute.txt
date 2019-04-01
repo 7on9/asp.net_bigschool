@@ -171,3 +171,4 @@ C:\Users\Administrator\Desktop\asp.net_bigschool\BigSchool\obj\Debug\BigSchool.c
 C:\Users\Administrator\Desktop\asp.net_bigschool\BigSchool\obj\Debug\BigSchool.dll
 C:\Users\Administrator\Desktop\asp.net_bigschool\BigSchool\obj\Debug\BigSchool.pdb
 C:\Users\Administrator\Desktop\asp.net_bigschool\BigSchool\obj\Debug\BigSchool.Migrations.Courseto.resources
+C:\Users\Administrator\Desktop\asp.net_bigschool\BigSchool\obj\Debug\BigSchool.Migrations.Attendance.resources
